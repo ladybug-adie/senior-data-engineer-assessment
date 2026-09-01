@@ -1,0 +1,42 @@
+{
+  "assessment_source": "TechnicalAssessment 5 (1).pdf",
+  "input_files": [
+    "sales_data 2.csv",
+    "product_reference 2.csv"
+  ],
+  "profile": {
+    "original_rows": 20,
+    "exact_duplicates": 1,
+    "rows_after_exact_dedup": 19,
+    "null_counts": {
+      "OrderID": 0,
+      "ProductID": 0,
+      "SaleAmount": 1,
+      "OrderDate": 1,
+      "Region": 0,
+      "CustomerID": 1,
+      "Discount": 3,
+      "Currency": 0
+    },
+    "unmatched_product_ids": [
+      "PX1"
+    ],
+    "negative_sale_rows": 2,
+    "zero_sale_rows": 2,
+    "currencies": [
+      "EUR",
+      "GBP",
+      "USD"
+    ],
+    "regions": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ]
+  },
+  "critical_reject_count_after_dedup": 6,
+  "rejection_rate_after_dedup": 0.3157894736842105,
+  "quality_gate_threshold": 0.05,
+  "expected_quality_gate_result": "FAIL"
+}

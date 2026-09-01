@@ -1,0 +1,7 @@
+Metric,Value,Meaning
+Original rows,20,Input
+Exact duplicates removed,1,Cleaning
+Rows after deduplication,19,Quality gate denominator
+Rejected critical records,6,Validation
+Rejection rate,31.58%,Must be <= 5%
+Quality gate,FAIL,Target publication blocked

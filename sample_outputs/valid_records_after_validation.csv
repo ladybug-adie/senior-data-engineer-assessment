@@ -1,0 +1,14 @@
+OrderID,ProductID,ProductName,Category,SaleAmount,OrderDate,Region,CustomerID,Discount,Currency
+1001,P50,Wireless Mouse,Electronics,299.99,2023-05-01,East,C100,0.1,USD
+1007,P12,Notebook Stationery,Office Supplies,120.0,2023-05-01,East,C105,0.1,GBP
+1008,P88,Monitor Stand,Office Supplies,300.0,2023-05-02,North,C106,0.0,USD
+1009,P77,Portable Speaker,Electronics,0.0,2023-05-03,South,C107,0.0,USD
+1010,P45,Smartphone Charger,Electronics,450.0,2023-05-05,West,C108,0.05,USD
+1011,P11,Pen Set,Office Supplies,250.0,2023-06-01,North,C109,0.15,USD
+1012,P66,Wireless Keyboard,Electronics,210.0,2023-06-02,East,C110,0.0,GBP
+1013,P72,Laptop Backpack,Accessories,175.5,2023-06-03,West,C111,0.1,EUR
+1014,P23,Laptop Stand,Accessories,0.0,2023-07-01,East,C112,0.0,EUR
+1016,P88,Monitor Stand,Office Supplies,300.0,2023-07-06,North,C114,0.1,USD
+1017,P50,Wireless Mouse,Electronics,215.0,2023-07-07,East,C115,0.0,GBP
+1018,P23,Laptop Stand,Accessories,105.0,2023-07-08,South,C116,0.05,EUR
+1019,P72,Laptop Backpack,Accessories,140.0,2023-07-09,West,C117,0.15,USD
